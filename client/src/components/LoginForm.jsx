@@ -71,5 +71,4 @@ const LoginForm = ({ role, title, subtitle }) => {
     </div>
   );
 };
-
 export default LoginForm;
